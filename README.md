@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-### `npm install to install all the dependencies used for this project`
+### `npm install` to install all the dependencies used for this project
 ### `npm run concurrent` to run both server and client
 ### `npm start` to run just the client
 ### `npm run dev` runs just the server
