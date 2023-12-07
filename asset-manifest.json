@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OptimusQuidFacit/NextGen.git/static/css/main.ffe34ec7.css",
+    "main.js": "/OptimusQuidFacit/NextGen.git/static/js/main.231a0534.js",
+    "static/js/787.9f4d1261.chunk.js": "/OptimusQuidFacit/NextGen.git/static/js/787.9f4d1261.chunk.js",
+    "index.html": "/OptimusQuidFacit/NextGen.git/index.html",
+    "main.ffe34ec7.css.map": "/OptimusQuidFacit/NextGen.git/static/css/main.ffe34ec7.css.map",
+    "main.231a0534.js.map": "/OptimusQuidFacit/NextGen.git/static/js/main.231a0534.js.map",
+    "787.9f4d1261.chunk.js.map": "/OptimusQuidFacit/NextGen.git/static/js/787.9f4d1261.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.231a0534.js"
+  ]
+}
